@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Winnie Fong</h1>
-- 🌱 I’m currently learning **Data Analytics**
+<h3 align="center">Data Analytics</h3>
+
+- 🌱 I’m currently learning **SQL, Python, Power BI, Tableau**
+
+- 👨‍💻 All of my projects are available at [https://github.com/WinnieFongWL?tab=repositories](https://github.com/WinnieFongWL?tab=repositories)
 
 - 📫 How to reach me **fwl191@gmail.com**
 
